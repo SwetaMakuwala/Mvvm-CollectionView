@@ -27,6 +27,7 @@ class MyCell: UICollectionViewCell {
 
            self.contentView.backgroundColor = .lightGray
            self.textLabel.textAlignment = .center
+           //
        }
 
        required init?(coder aDecoder: NSCoder) {
